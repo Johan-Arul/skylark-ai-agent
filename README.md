@@ -1,6 +1,6 @@
 # 🚁 Skylark BI Agent
 
-> Conversational AI Business Intelligence agent for Skylark Drones.  
+> Conversational AI Business Intelligence agent
 > Ask founder-level questions about your Monday.com pipeline and work orders.
 
 ---
@@ -116,3 +116,4 @@ User → Chat UI → FastAPI → SkylarkAgent
 - Read-only Monday.com access
 - No credentials in logs
 - No data written back to Monday.com
+
