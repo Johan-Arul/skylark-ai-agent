@@ -1,4 +1,4 @@
-# 🚁 Skylark BI Agent
+# 🚁 BI Agent
 
 > Conversational AI Business Intelligence agent.
 > Ask questions about your Monday.com pipeline and work orders.
